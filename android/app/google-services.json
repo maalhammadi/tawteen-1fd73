@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "112502177907",
+    "project_id": "robinjobposts",
+    "storage_bucket": "robinjobposts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112502177907:android:ef594804cff6cf145f6a06",
+        "android_client_info": {
+          "package_name": "Robin.Job.Posts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112502177907-j7560n7bd4fppadeji0cfmp00vho3kti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Robin.Job.Posts",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "112502177907-2lvs1rqe2bdj6hqe6li43mhr04q6ejkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr_6TYFqFWuTCQDt34PkYOjd4B0r1PYQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112502177907-2lvs1rqe2bdj6hqe6li43mhr04q6ejkv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "112502177907-mblr11qhtbhv4kedlc17ffv8mf1p9rrv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "RobinJobPosts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
